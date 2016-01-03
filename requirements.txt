@@ -1,0 +1,3 @@
+Django==1.7
+Scrapy==1.0.3
+scrapy-djangoitem==1.0.0
